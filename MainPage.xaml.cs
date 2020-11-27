@@ -37,7 +37,7 @@ namespace PDM_TP01
         void onClickCreditos(object sender, EventArgs args)
         {
             print("[INFO] onClickCreditos\n");
-            print("Criado por: Anderson Bucchianico e Rodrigo Sena\n");
+            print("Criado por: Anderson Bucchianico CB3001491 e Rodrigo Sena CB3002535\n");
         }
 
         void print(String message) {
